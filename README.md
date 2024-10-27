@@ -5,4 +5,3 @@ The goal of this project is to building a model to forecast Confirmed Covid19 Ca
 Technical Domain: Time Series Forecasting
 
 Algorithms/Approach: Data Collection, Data Preprocessing, Data Analysis, Facebook Prophet Model
-# Forecasting_Facebook_Prophet_Model
